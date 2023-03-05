@@ -6,7 +6,6 @@
     <title>Peedu Erik Pajo IT-21</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer">
-
     <title>Peedu Erik Pajo IT21</title>
     <style>
       .jumbo2{
@@ -27,7 +26,6 @@
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
-
               <div class="collapse navbar-collapse " id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto mb-2 mb-lg-0">
                   <li class="nav-item">
@@ -40,10 +38,10 @@
                     <a class="nav-link" href="KT2.php">Services</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Templates</a>
+                    <a class="nav-link" href="KT3.php">Templates</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Pricing</a>
+                    <a class="nav-link" href="KT4.php">Pricing</a>
                   </li>
                 </ul>
                     <i class="fa-brands fa-instagram " style="margin-right: 15px;"></i>
@@ -98,7 +96,6 @@
                         <li><a href="#">Disclaimer</a></li>
                     </ul>
                 </div>
-
                 <div class="col-xs-6 col-sm-3">
                     <h4 class="my-2">Product</h4>
                     <ul class="list-unstyled list-light text-white">

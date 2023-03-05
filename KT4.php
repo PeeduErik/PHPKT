@@ -8,28 +8,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer">
     <title>Peedu Erik Pajo IT21</title>
     <style>
-    .jumbo{
-            
-            background-color: #666666;
-            background-image: url('https://4kwallpapers.com/images/walls/thumbs_3t/5656.jpg');
-            background-position: center;
-            background-size: cover;
-            background-repeat: no-repeat;
-            color: #fff;
-            height: 623px;
-            width: 100%;
-        }
-        .jumbo1{
-            
-            background-color: #666666;
-            background-image: url('https://orstedcdn.azureedge.net/-/media/www/images/corp/investor/cmdbanner-v2.ashx?mh=1440&mw=1440&rev=b67f4d2c418144769ee6847569434b5b&hash=247E67AA7D9C9C839C59C870D53C6C05');
-            background-position: center;
-            background-size: cover;
-            background-repeat: no-repeat;
-            color: #fff;
-            height: 648px;
-            width: 100%;
-        }
         .jumbo2{
             background-image: url('https://www.solidbackgrounds.com/images/2560x1440/2560x1440-davys-grey-solid-color-background.jpg');
             background-position: center;
@@ -75,61 +53,7 @@
               </div>
             </div>
           </nav>
-    <div class="row jumbo">
-        
-        <div class="col p-2  text-center">
-            <h1 class="mt-5">Everything you need to craft a beautiful</h1>
-            <h1>business websites</h1>
-            <button class="btn btn-outline-light mt-5" type="submit">Get started now</button>
-            <a class="btn btn-light text-primary mt-5" type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank">Watch video</a>
-            <p class="mt-3">No Creadit Card Required!</p>
-            <div>
-                <img src="https://picsum.photos/150/60" style="margin-right: 100px;" width="150" height="60">
-                <img src="https://picsum.photos/150/60" style="margin-right: 100px;" width="150" height="60">
-                <img src="https://picsum.photos/150/60" style="margin-right: 100px;" width="150" height="60">
-                <img src="https://picsum.photos/150/60" style="margin-right: 100px;" width="150" height="60">
-                <img src="https://picsum.photos/150/60" style="margin-right: 100px;" width="150" height="60">
-                <img src="https://picsum.photos/150/60"  width="150" height="60">
-            </div>
-            <div class="container">
-            <h1 class="mt-5" >HERE'S WHAT YOU GET</h1>
-            <p class="mt-2 text-center" >Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam nesciunt iusto illum ullam cumque, officia iste soluta assumenda qui! Sapiente praesentium officiis aliquam quibusdam dicta nemo ut velit deserunt error!</p>
-            </div>
-            <a class="btn btn-light text-primary mt-5" type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank"><i class="fa-solid fa-laptop"></i>  Responsive layouts  </a>
-            <a class="btn btn-light text-primary mt-5" type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank"><i class="fa-regular fa-gem"></i>Modern design</a>
-            <a class="btn btn-light text-primary mt-5" type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank"><i class="fa-brands fa-bootstrap"></i>Bootstrap 4</a>
-            <a class="btn btn-primary text-light mt-5" type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank"><i class="fa-brands fa-html5"></i>Clean HTML5 code</a>
-        </div>
-    </div>
-<div class="row p-5 jumbo1">
-  <div class="col">
-  <h1 class="text-dark mt-5 ">Clean and Valid HTML5 code</h1>
-          <p class="text-dark" style="width:600px;">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas corrupti dolor ipsa. Earum eius laboriosam explicabo illo laudantium qui alias saepe quasi veniam provident recusandae, ut molestiae inventore similique deserunt.</p>
-          <div class="card" style="width:600px;">
-            <div class="card-body" >
-              <div class="row">
-                <div class="col-3">
-                  
-                  <img src="https://picsum.photos/120/80" class="rounded mx-auto d-block">
-                  <p class="text-center text-dark " >-- John Doe</p>
-                  <p class="text-center text-dark ">Anton OÜ</p>
-                </div>
-                <div class="col-6">
-                  
-                    <p class="text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit.Quas corrupti dolor ipsa. Earum eius laboriosam explicabo illo laudantium qui alias saepe quasi</p>
-                    <i class="fa-solid fa-quote-right text-dark fa-2x"></i>
-                  
-                </div>
-              </div>
-            </div>
-        </div>
-          <a class="btn btn-primary text-light mt-5 "  type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank">See all features</a>
-  </div>
-  <div class="col ">
-  <img src="https://picsum.photos/600/600" class="mx-auto d-block">
-  </div>
-</div>
-<section class="pt-5 pb-5 jumbo2">
+          <section class="pt-5 pb-5 jumbo2">
   <div class="footer ">
     <div class="     pt-5 pb-5">
         <div class="container">

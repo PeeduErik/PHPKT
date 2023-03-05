@@ -6,7 +6,6 @@
     <title>Peedu Erik Pajo IT-21</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer">
-
     <title>Peedu Erik Pajo IT21</title>
     <style>
     
@@ -19,17 +18,24 @@
             height: 100%;
             width: 100%;
         }
+        .jumbo3{
+            background-image: url('https://coolbackgrounds.io/images/backgrounds/blue/blue-background-0046AE-2c30a943.jpg');
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            color: #fff;
+            height: 100%;
+            width: 100%;
+        }
         </style>
 </head>
   <body>
-
           <nav class="navbar navbar-expand-lg">
           <div class="container-fluid">
               <a class="navbar-brand" href="KT.php">Peedu Erik Pajo</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
-
               <div class="collapse navbar-collapse " id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto mb-2 mb-lg-0">
                   <li class="nav-item">
@@ -42,10 +48,10 @@
                     <a class="nav-link" href="KT2.php">Services</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Templates</a>
+                    <a class="nav-link" href="KT3.php">Templates</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Pricing</a>
+                    <a class="nav-link" href="KT4.php">Pricing</a>
                   </li>
                 </ul>
                     <i class="fa-brands fa-instagram " style="margin-right: 15px;"></i>
@@ -109,7 +115,15 @@
             </div>
         </div>  
         </div>  
-                
+        <div class="row mt-5 jumbo3 p-5">
+            <div class="col-6 mt-5">
+            <i class="fa-solid fa-quote-right text-light fa-2x"></i>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae aperiam ullam ea sed repellendus velit voluptates nesciunt dignissimos quae. Cum, officia! Magnam vel ad quasi nemo voluptates quae, quo molestias.</p>
+            <p>-- John Doe Anton OÜ</p>
+            <a class="btn btn-outline-light mt-5 mb-5" type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank">Read More</a>
+            </div>  
+        </div>
+            
           <section class="pt-5 pb-5 jumbo2">
   <div class="footer ">
     <div class="     pt-5 pb-5">
@@ -131,7 +145,6 @@
                         <li><a href="#">Disclaimer</a></li>
                     </ul>
                 </div>
-
                 <div class="col-xs-6 col-sm-3">
                     <h4 class="my-2">Product</h4>
                     <ul class="list-unstyled list-light text-white">
@@ -191,7 +204,6 @@
     </div>
 </div>
 </section>
-
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script>
