@@ -10,24 +10,24 @@
     <style>
     .jumbo{
             
-            background-color: #666666;
+            
             background-image: url('https://4kwallpapers.com/images/walls/thumbs_3t/5656.jpg');
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
             color: #fff;
-            height: 623px;
+            height: 100%;
             width: 100%;
         }
         .jumbo1{
             
-            background-color: #666666;
+            
             background-image: url('https://orstedcdn.azureedge.net/-/media/www/images/corp/investor/cmdbanner-v2.ashx?mh=1440&mw=1440&rev=b67f4d2c418144769ee6847569434b5b&hash=247E67AA7D9C9C839C59C870D53C6C05');
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
             color: #fff;
-            height: 648px;
+            height: 100%;
             width: 100%;
         }
         .jumbo2{
@@ -75,21 +75,21 @@
               </div>
             </div>
           </nav>
-    <div class="row jumbo">
+    <div class=" jumbo">
         
-        <div class="col p-2  text-center">
+        <div class=" p-2  text-center">
             <h1 class="mt-5">Everything you need to craft a beautiful</h1>
             <h1>business websites</h1>
             <button class="btn btn-outline-light mt-5" type="submit">Get started now</button>
             <a class="btn btn-light text-primary mt-5" type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank">Watch video</a>
             <p class="mt-3">No Creadit Card Required!</p>
-            <div>
-                <img src="https://picsum.photos/150/60" style="margin-right: 100px;" width="150" height="60">
-                <img src="https://picsum.photos/150/60" style="margin-right: 100px;" width="150" height="60">
-                <img src="https://picsum.photos/150/60" style="margin-right: 100px;" width="150" height="60">
-                <img src="https://picsum.photos/150/60" style="margin-right: 100px;" width="150" height="60">
-                <img src="https://picsum.photos/150/60" style="margin-right: 100px;" width="150" height="60">
-                <img src="https://picsum.photos/150/60"  width="150" height="60">
+            <div class="row">
+                <div class="col-sm"><img src="https://picsum.photos/150/60"></div>
+                <div class="col-sm"><img src="https://picsum.photos/150/60"></div>
+                <div class="col-sm"><img src="https://picsum.photos/150/60"></div>
+                <div class="col-sm"><img src="https://picsum.photos/150/60"></div>
+                <div class="col-sm"><img src="https://picsum.photos/150/60"></div>
+                <div class="col-sm"><img src="https://picsum.photos/150/60"></div>
             </div>
             <div class="container">
             <h1 class="mt-5" >HERE'S WHAT YOU GET</h1>
@@ -102,19 +102,19 @@
         </div>
     </div>
 <div class="row p-5 jumbo1">
-  <div class="col">
+  <div class="col-sm-6">
   <h1 class="text-dark mt-5 ">Clean and Valid HTML5 code</h1>
           <p class="text-dark" style="width:600px;">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas corrupti dolor ipsa. Earum eius laboriosam explicabo illo laudantium qui alias saepe quasi veniam provident recusandae, ut molestiae inventore similique deserunt.</p>
           <div class="card" style="width:600px;">
             <div class="card-body" >
               <div class="row">
-                <div class="col-3">
+                <div class="col-sm-3">
                   
                   <img src="https://picsum.photos/120/80" class="rounded mx-auto d-block">
                   <p class="text-center text-dark " >-- John Doe</p>
                   <p class="text-center text-dark ">Anton OÜ</p>
                 </div>
-                <div class="col-6">
+                <div class="col-sm-6">
                   
                     <p class="text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit.Quas corrupti dolor ipsa. Earum eius laboriosam explicabo illo laudantium qui alias saepe quasi</p>
                     <i class="fa-solid fa-quote-right text-dark fa-2x"></i>
@@ -125,7 +125,7 @@
         </div>
           <a class="btn btn-primary text-light mt-5 "  type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank">See all features</a>
   </div>
-  <div class="col ">
+  <div class="col-sm-6 ">
   <img src="https://picsum.photos/600/600" class="mx-auto d-block">
   </div>
 </div>

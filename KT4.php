@@ -17,6 +17,24 @@
             height: 100%;
             width: 100%;
         }
+        .jumbo5{
+            background-image: url('https://media.istockphoto.com/id/1004108530/photo/hand-holding-smartphone-taking-photo-of-beautiful-food-mix-fresh-green-salad.jpg?s=612x612&w=0&k=20&c=jjWyKss8VA6h9_9ZtVzfUatOem25OpzFt1SiiVzPfyY=');
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            color: #fff;
+            height: 100%;
+            width: 100%;
+        }
+        .jumbo6{
+            background-color: aliceblue;
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            color: #fff;
+            height: 100%;
+            width: 100%;
+        }
         </style>
 </head>
   <body>
@@ -53,7 +71,99 @@
               </div>
             </div>
           </nav>
-          <section class="pt-5 pb-5 jumbo2">
+          <div class=" jumbo5">
+        
+        <div class=" p-2  text-center">
+            <h1 class="mt-5">JOIN OVER 100,000 REGISTERED USERS PLANS</h1>
+            <h1>START AT JUST $9.99 A MONTH</h1>
+            
+            <a class="btn btn-warning text-dark mt-5" type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank">Call To Action Button</a>
+            <p class="mt-3 mb-5">No Creadit Card Required!</p>
+            
+            
+            
+        </div>
+    </div>
+    
+    <div class="row p-5 ">
+  <div class="col-sm-6">
+  <h1 class="text-dark mt-5 ">Why people trust us</h1>
+          <p class="text-dark" >Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas corrupti dolor ipsa. Earum eius laboriosam explicabo illo laudantium qui alias saepe quasi veniam provident recusandae, ut molestiae inventore similique deserunt.</p>
+          <div class="card">
+            <div class="card-body" >
+              <div class="row">
+                <div class="col-sm-3">
+                  
+                  <img src="https://picsum.photos/120/80" class="rounded mx-auto d-block">
+                  <p class="text-center text-dark " >-- John Doe</p>
+                  <p class="text-center text-dark ">Anton OÜ</p>
+                </div>
+                <div class="col-sm-6">
+                  
+                    <p class="text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit.Quas corrupti dolor ipsa. Earum eius laboriosam explicabo illo laudantium qui alias saepe quasi</p>
+                    <i class="fa-solid fa-quote-right text-dark fa-2x"></i>
+                  
+                </div>
+              </div>
+            </div>
+        </div>
+          <a class="btn btn-primary text-light mt-5 "  type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank">See all features</a>
+  </div>
+  <div class="col-sm-6 ">
+  <div class="row text-center">
+            <div class="col-sm mt-4">
+                <img src="https://picsum.photos/150/150" class="card-img-top " alt="...">
+            </div>
+            <div class="col-sm mt-4">
+                <img src="https://picsum.photos/150/150" class="card-img-top " alt="...">
+            </div>
+            <div class="col-sm mt-4">
+                <img src="https://picsum.photos/150/150" class="card-img-top " alt="...">
+            </div>
+            <div class="col-sm mt-4">
+                <img src="https://picsum.photos/150/150" class="card-img-top " alt="...">
+            </div>
+        </div>
+        <div class="row text-center">
+            <div class="col-sm mt-4">
+                <img src="https://picsum.photos/150/150" class="card-img-top " alt="...">
+            </div>
+            <div class="col-sm mt-4">
+                <img src="https://picsum.photos/150/150" class="card-img-top" alt="...">
+            </div>
+            <div class="col-sm mt-4">
+                <img src="https://picsum.photos/150/150" class="card-img-top " alt="...">
+            </div>
+            <div class="col-sm mt-4">
+                <img src="https://picsum.photos/150/150" class="card-img-top " alt="...">
+            </div>
+        </div>
+        <div class="row text-center">
+            <div class="col-sm mt-4">
+                <img src="https://picsum.photos/150/150" class="card-img-top " alt="...">
+            </div>
+            <div class="col-sm mt-4">
+                <img src="https://picsum.photos/150/150" class="card-img-top " alt="...">
+            </div>
+            <div class="col-sm mt-4">
+                <img src="https://picsum.photos/150/150" class="card-img-top " alt="...">
+            </div>
+            <div class="col-sm mt-4">
+                <img src="https://picsum.photos/150/150" class="card-img-top " alt="...">
+            </div>
+        </div>
+    </div>
+  </div>
+    </div>
+    <div class=" jumbo6">
+        <div class=" p-2 text-dark text-center">
+            <h1 class="mt-5">Ready to get started?</h1>
+            <p class="mt-2">Call to action text This is some text and button within a call-to-action text block</p>
+            
+            <a class="btn btn-dark text-light mt-2 mb-5" type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank">Call To Action</a>
+        </div>
+    </div>
+<section class="pt-5 pb-5 jumbo2">
   <div class="footer ">
     <div class="     pt-5 pb-5">
         <div class="container">

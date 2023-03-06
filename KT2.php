@@ -66,49 +66,49 @@
         <div class="container">
             <h1 class="text-center">Services</h1>
             <div class="row">
-                <div class="col mt-5">
+                <div class="col-sm mt-5">
                     <div class="row">
-                        <div class="col-9"><h3>Media heading</h3>
+                        <div class="col-sm-9"><h3>Media heading</h3>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit eius necessitatibus. </p></div>
-                        <div class="col-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
-                        <div class="col-9"><h3>Media heading</h3>
+                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
+                        <div class="col-sm-9"><h3>Media heading</h3>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit eius necessitatibus. </p></div>
-                        <div class="col-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
-                        <div class="col-9"><h3>Media heading</h3>
+                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
+                        <div class="col-sm-9"><h3>Media heading</h3>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit eius necessitatibus. </p></div>
-                        <div class="col-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
-                        <div class="col-9"><h3>Media heading</h3>
+                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
+                        <div class="col-sm-9"><h3>Media heading</h3>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit eius necessitatibus. </p></div>
-                        <div class="col-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
+                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-sm">
                 <img src="https://picsum.photos/400/700" class="rounded img-fluid">
                 </div>
-                <div class="col mt-5 ">
+                <div class="col-sm mt-5 ">
                     <div class="row">
-                        <div class="col-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
-                        <div class="col-9"><h3>Media heading</h3>
+                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
+                        <div class="col-sm-9"><h3>Media heading</h3>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit eius necessitatibus. </p></div>
-                        <div class="col-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
-                        <div class="col-9"><h3>Media heading</h3>
+                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
+                        <div class="col-sm-9"><h3>Media heading</h3>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit eius necessitatibus. </p></div>
-                        <div class="col-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
-                        <div class="col-9"><h3>Media heading</h3>
+                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
+                        <div class="col-sm-9"><h3>Media heading</h3>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit eius necessitatibus. </p></div>
-                        <div class="col-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
-                        <div class="col-9"><h3>Media heading</h3>
+                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
+                        <div class="col-sm-9"><h3>Media heading</h3>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit eius necessitatibus. </p></div>
                     </div>
             </div>
         </div>
         <div class="row mt-5">
-            <div class="col-6">
+            <div class="col-sm-6">
                 <img src="https://picsum.photos/600/300" class="rounded img-fluid">
                 <h2>Awesome Things</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore quam ea aspernatur tempora labore quisquam atque, expedita. Sint quaerat quis vel!</p>
             </div>
-            <div class="col-6">
+            <div class="col-sm-6">
                 <img src="https://picsum.photos/600/300" class="rounded img-fluid">
                 <h2>More Awesomeness</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum quasi fuga sunt facere dolores quia eius tempore est totam. Velit deserunt odio ratione laudantium <a href="">maiores suscipit blanditiis</a> quos, eius omnis!</p>
@@ -116,7 +116,7 @@
         </div>  
         </div>  
         <div class="row mt-5 jumbo3 p-5">
-            <div class="col-6 mt-5">
+            <div class="col-sm-6 mt-5">
             <i class="fa-solid fa-quote-right text-light fa-2x"></i>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae aperiam ullam ea sed repellendus velit voluptates nesciunt dignissimos quae. Cum, officia! Magnam vel ad quasi nemo voluptates quae, quo molestias.</p>
             <p>-- John Doe Anton OÜ</p>
@@ -124,7 +124,7 @@
             </div>  
         </div>
             
-          <section class="pt-5 pb-5 jumbo2">
+        <section class="pt-5 pb-5 jumbo2">
   <div class="footer ">
     <div class="     pt-5 pb-5">
         <div class="container">

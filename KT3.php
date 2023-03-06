@@ -5,11 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Peedu Erik Pajo IT-21</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script>
     <title>Peedu Erik Pajo IT21</title>
     <style>
         .jumbo2{
@@ -65,10 +61,10 @@
       <div class="card-body">
         <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque recusandae eveniet debitis expedita asperiores necessitatibus, corporis explicabo totam laborum. Quaerat molestias, optio iure in cumque nesciunt error est rem odit!"</p>
         <div class="row">
-            <div class="col-2">
+            <div class="col-sm-2">
             <img src="https://picsum.photos/60/60" class="rounded-circle img-fluid">
             </div>
-            <div class="col-10 mt-3">
+            <div class="col-sm-10 mt-3">
                 <h5>Person Name</h5>
             </div>
         </div>
@@ -80,41 +76,75 @@
       <div class="card-body">
         <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque recusandae eveniet debitis expedita asperiores necessitatibus, corporis explicabo totam laborum. Quaerat molestias, optio iure in cumque nesciunt error est rem odit!"</p>
         <div class="row">
-            <div class="col-2">
+            <div class="col-sm-2">
             <img src="https://picsum.photos/60/60" class="rounded-circle img-fluid">
             </div>
-            <div class="col-10 mt-3">
+            <div class="col-sm-10 mt-3">
                 <h5>Person Name</h5>
             </div>
         </div>
       </div>
     </div>
   </div>
-    
+  </div>
           </div>
     <div class="container">
     <div class="row mt-5">
-    <div class="col"><img src="https://picsum.photos/400/400" class="img-fluid"></div>
-    <div class="col">
+    <div class="col-sm-6"><img src="https://picsum.photos/400/400" class="img-fluid"></div>
+    <div class="col-sm-6">
         <h2>Powerful Features</h2>
         <div class="row">
-            <div class="col">
-                <div class="col-3">
-                    <i class="fa-light fa-gem"></i>
+            <div class="col-sm-6 mt-5">
+              <div class="row">
+                <div class="col-sm-3">
+                <i class="fa-solid fa-diamond fa-2x"></i>
                 </div>
-                <div class="col-9">
+                <div class="col-sm-9">
                     <p>Praesent mollis, massa in auctor molestie</p>
                 </div>
-
+                <div class="col-sm-3">
+                <i class="fa-brands fa-html5 fa-2x"></i>
+                </div>
+                <div class="col-sm-9">
+                    <p>Praesent mollis, massa in auctor molestie</p>
+                </div>
+                <div class="col-sm-3">
+                <i class="fa-solid fa-computer fa-2x"></i>
+                </div>
+                <div class="col-sm-9">
+                    <p>Praesent mollis, massa in auctor molestie</p>
+                </div>
+              </div>
             
             
             </div>
-            <div class="col"></div>
+            <div class="col-sm-6 mt-5">
+            <div class="row">
+            <div class="col-sm-3">
+            <i class="fa-solid fa-droplet fa-2x"></i>
+                </div>
+                <div class="col-sm-9">
+                    <p>Praesent mollis, massa in auctor molestie</p>
+                </div>
+                <div class="col-sm-3">
+                <i class="fa-solid fa-lock fa-2x"></i>
+                </div>
+                <div class="col-sm-9">
+                    <p>Praesent mollis, massa in auctor molestie</p>
+                </div>
+                <div class="col-sm-3">
+                <i class="fa-solid fa-mobile fa-2x"></i>
+                </div>
+                <div class="col-sm-9">
+                    <p>Praesent mollis, massa in auctor molestie</p>
+                </div>
+            </div>
+            </div>
         </div>
     </div>
   </div>
   </div>  
-    </div>
+    
           <section class="pt-5 pb-5 jumbo2">
   <div class="footer ">
     <div class="     pt-5 pb-5">
@@ -195,6 +225,8 @@
     </div>
 </div>
 </section>
-    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script>
    </body>
 </html>
