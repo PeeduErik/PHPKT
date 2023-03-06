@@ -84,7 +84,7 @@
             
         </div>
     </div>
-    
+    <div class="container">
     <div class="row p-5 ">
   <div class="col-sm-6">
   <h1 class="text-dark mt-5 ">Why people trust us</h1>
@@ -95,12 +95,12 @@
                 <div class="col-sm-3">
                   
                   <img src="https://picsum.photos/120/80" class="rounded mx-auto d-block">
-                  <p class="text-center text-dark " >-- John Doe</p>
-                  <p class="text-center text-dark ">Anton OÜ</p>
+                  <p class="text-center text-dark " ><small>-- John Doe</small></p>
+                  <p class="text-center text-dark "><strong>Anton OÜ</strong></p>
                 </div>
                 <div class="col-sm-6">
                   
-                    <p class="text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit.Quas corrupti dolor ipsa. Earum eius laboriosam explicabo illo laudantium qui alias saepe quasi</p>
+                    <p class="text-dark ">Lorem ipsum dolor sit amet consectetur adipisicing elit.Quas corrupti dolor ipsa. Earum eius laboriosam explicabo illo laudantium qui alias saepe quasi</p>
                     <i class="fa-solid fa-quote-right text-dark fa-2x"></i>
                   
                 </div>
@@ -154,6 +154,43 @@
         </div>
     </div>
   </div>
+  </div>
+  <div class="container">
+    <div class="row">
+        <div class="col-sm-4 p-5 mt-5">
+            <h2>Lorem Ipsum</h2>
+            <p class="lead">Praesnt Mollis, massa in auctor molestie, magna lorem semper mauris a venenatis turpis</p>
+        </div>
+        <div class="card-group col-sm-8 mb-5">
+            <div class="card" style="width: 18rem; height: 600px">
+                <div class="card-body">
+                <h1 class="text-center display-1">$777</h1>
+                <p class="text-center"><small>Business plan</small></p>
+                <p class="text-center">Lorem ipsum efficitur sed</p>
+                <p class="text-center">Magna lorem semper</p>
+                <p class="text-center">Venenatis turpis sed</p>
+                <p class="text-center">Auctor molestie magna</p>
+                <div class="text-center">
+                <a class="btn btn-primary text-light mt-5 "  type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank">Buy Now</a>
+                </div>
+                </div>
+                
+            </div>
+            <div class="card mt-5" style="width: 18rem; height: 500px">
+                <div class="card-body">
+                <h1 class="text-center display-1">$77</h1>
+                <p class="text-center"><small>Personal plan</small></p>
+                <p class="text-center">Lorem ipsum efficitur sed</p>
+                <p class="text-center">Magna lorem semper</p>
+                <p class="text-center">Venenatis turpis sed</p>
+                <p class="text-center">Auctor molestie magna</p>
+                <div class="text-center">
+                <a class="btn btn-primary text-light mt-5 "  type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank">Buy Now</a>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
     </div>
     <div class=" jumbo6">
         <div class=" p-2 text-dark text-center">

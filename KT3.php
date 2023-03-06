@@ -90,7 +90,7 @@
           </div>
     <div class="container">
     <div class="row mt-5">
-    <div class="col-sm-6"><img src="https://picsum.photos/400/400" class="img-fluid"></div>
+    <div class="col-sm-6 mb-3"><img src="https://picsum.photos/400/400" class="img-fluid"></div>
     <div class="col-sm-6">
         <h2>Powerful Features</h2>
         <div class="row">
