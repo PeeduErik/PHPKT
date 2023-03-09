@@ -70,7 +70,7 @@
                     <i class="fa-brands fa-twitter" style="margin-right: 15px;"></i>
                     <i class="fa-brands fa-linkedin" style="margin-right: 15px;"></i>
                 <form class="d-flex" role="search">
-                  <a href="login.php">Logi Sisse</a>
+                  <a href="KT2.php">Logi Sisse</a>
                 </form>
               </div>
             </div>
