@@ -1,12 +1,13 @@
 <!doctype html>
 <html lang="en">
-  <head>
+    <head>
+<title>Peedu Erik Pajo IT-21</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Peedu Erik Pajo IT-21</title>
+    
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer">
-    <title>Peedu Erik Pajo IT21</title>
+    
     <style>
       .jumbo2{
             background-image: url('https://www.solidbackgrounds.com/images/2560x1440/2560x1440-davys-grey-solid-color-background.jpg');
@@ -55,8 +56,8 @@
           </nav>
     <div class="container">
         <h1 class="text-center">Blueprints are Easy to use</h1>
-        <img src="https://picsum.photos/1170/500" class="mt-5 mx-auto d-block">
-        <div class="row mt-5">
+        <img src="https://picsum.photos/1170/500" class="mt-5 mx-auto d-block" alt="">
+        <div class="row mt-5 mb-5">
             <div class="col-sm">
                 <h1>Your Website</h1>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit eius necessitatibus perferendis assumenda similique numquam magnam, nam, fugiat molestiae nemo ducimus dignissimos, maxime placeat obcaecati ullam quae nihil quas deleniti.</p>
@@ -127,7 +128,7 @@
                     <p class="color-light mt-2">Stay up-to-date!</p>
                     <form>
                         <div class="input-group mb-3">
-                            <input type="text" class="form-control form-control-sm" placeholder="Email" aria-label="Email" aria-describedby="basic-addon2">
+                            <input type="text" class="form-control form-control-sm" placeholder="Email" aria-label="Email" >
                             <div class="input-group-append">
                                 <button class="btn btn-primary btn-sm form-control-sm" type="button">OK</button>
                             </div>

@@ -6,7 +6,7 @@
     <title>Peedu Erik Pajo IT-21</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer">
-    <title>Peedu Erik Pajo IT21</title>
+    
     <style>
         .jumbo2{
             background-image: url('https://www.solidbackgrounds.com/images/2560x1440/2560x1440-davys-grey-solid-color-background.jpg');
@@ -62,7 +62,7 @@
         <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque recusandae eveniet debitis expedita asperiores necessitatibus, corporis explicabo totam laborum. Quaerat molestias, optio iure in cumque nesciunt error est rem odit!"</p>
         <div class="row">
             <div class="col-sm-2">
-            <img src="https://picsum.photos/60/60" class="rounded-circle img-fluid">
+            <img src="https://picsum.photos/60/60" class="rounded-circle img-fluid" alt="">
             </div>
             <div class="col-sm-10 mt-3">
                 <h5>Person Name</h5>
@@ -77,7 +77,7 @@
         <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque recusandae eveniet debitis expedita asperiores necessitatibus, corporis explicabo totam laborum. Quaerat molestias, optio iure in cumque nesciunt error est rem odit!"</p>
         <div class="row">
             <div class="col-sm-2">
-            <img src="https://picsum.photos/60/60" class="rounded-circle img-fluid">
+            <img src="https://picsum.photos/60/60" class="rounded-circle img-fluid" alt="">
             </div>
             <div class="col-sm-10 mt-3">
                 <h5>Person Name</h5>
@@ -90,7 +90,7 @@
           </div>
     <div class="container">
     <div class="row mt-5">
-    <div class="col-sm-6 mb-3"><img src="https://picsum.photos/400/400" class="img-fluid"></div>
+    <div class="col-sm-6 mb-3"><img src="https://picsum.photos/400/400" class="img-fluid" alt=""></div>
     <div class="col-sm-6">
         <h2>Powerful Features</h2>
         <div class="row">
@@ -197,7 +197,7 @@
                     <p class="color-light mt-2">Stay up-to-date!</p>
                     <form>
                         <div class="input-group mb-3">
-                            <input type="text" class="form-control form-control-sm" placeholder="Email" aria-label="Email" aria-describedby="basic-addon2">
+                            <input type="text" class="form-control form-control-sm" placeholder="Email" aria-label="Email" >
                             <div class="input-group-append">
                                 <button class="btn btn-primary btn-sm form-control-sm" type="button">OK</button>
                             </div>

@@ -6,7 +6,7 @@
     <title>Peedu Erik Pajo IT-21</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer">
-    <title>Peedu Erik Pajo IT21</title>
+    
     <style>
         .jumbo2{
             background-image: url('https://www.solidbackgrounds.com/images/2560x1440/2560x1440-davys-grey-solid-color-background.jpg');
@@ -77,7 +77,7 @@
             <h1 class="mt-5">JOIN OVER 100,000 REGISTERED USERS PLANS</h1>
             <h1>START AT JUST $9.99 A MONTH</h1>
             
-            <a class="btn btn-warning text-dark mt-5" type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank">Call To Action Button</a>
+            <a class="btn btn-warning text-dark mt-5"  href="https://youtu.be/lJkOaBXU8lM" target="_blank">Call To Action Button</a>
             <p class="mt-3 mb-5">No Creadit Card Required!</p>
             
             
@@ -94,7 +94,7 @@
               <div class="row">
                 <div class="col-sm-3">
                   
-                  <img src="https://picsum.photos/120/80" class="rounded mx-auto d-block">
+                  <img src="https://picsum.photos/120/80" class="rounded mx-auto d-block" alt="">
                   <p class="text-center text-dark " ><small>-- John Doe</small></p>
                   <p class="text-center text-dark "><strong>Anton OÜ</strong></p>
                 </div>
@@ -107,7 +107,7 @@
               </div>
             </div>
         </div>
-          <a class="btn btn-primary text-light mt-5 "  type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank">See all features</a>
+          <a class="btn btn-primary text-light mt-5 "   href="https://youtu.be/lJkOaBXU8lM" target="_blank">See all features</a>
   </div>
   <div class="col-sm-6 ">
   <div class="row text-center">
@@ -171,7 +171,7 @@
                 <p class="text-center">Venenatis turpis sed</p>
                 <p class="text-center">Auctor molestie magna</p>
                 <div class="text-center">
-                <a class="btn btn-primary text-light mt-5 "  type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank">Buy Now</a>
+                <a class="btn btn-primary text-light mt-5 "  href="https://youtu.be/lJkOaBXU8lM" target="_blank">Buy Now</a>
                 </div>
                 </div>
                 
@@ -185,7 +185,7 @@
                 <p class="text-center">Venenatis turpis sed</p>
                 <p class="text-center">Auctor molestie magna</p>
                 <div class="text-center">
-                <a class="btn btn-primary text-light mt-5 "  type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank">Buy Now</a>
+                <a class="btn btn-primary text-light mt-5 "   href="https://youtu.be/lJkOaBXU8lM" target="_blank">Buy Now</a>
                 </div>
                 </div>
             </div>
@@ -197,7 +197,7 @@
             <h1 class="mt-5">Ready to get started?</h1>
             <p class="mt-2">Call to action text This is some text and button within a call-to-action text block</p>
             
-            <a class="btn btn-dark text-light mt-2 mb-5" type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank">Call To Action</a>
+            <a class="btn btn-dark text-light mt-2 mb-5"  href="https://youtu.be/lJkOaBXU8lM" target="_blank">Call To Action</a>
         </div>
     </div>
 <section class="pt-5 pb-5 jumbo2">
@@ -252,7 +252,7 @@
                     <p class="color-light mt-2">Stay up-to-date!</p>
                     <form>
                         <div class="input-group mb-3">
-                            <input type="text" class="form-control form-control-sm" placeholder="Email" aria-label="Email" aria-describedby="basic-addon2">
+                            <input type="text" class="form-control form-control-sm" placeholder="Email" aria-label="Email" >
                             <div class="input-group-append">
                                 <button class="btn btn-primary btn-sm form-control-sm" type="button">OK</button>
                             </div>

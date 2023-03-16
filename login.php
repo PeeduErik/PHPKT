@@ -1,7 +1,10 @@
+<!doctype html>
+<html lang="en">
+<title>Peedu Erik Pajo IT21</title>
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<!------ Include the above in your HEAD tag ---------->
+
 <link rel="stylesheet" href="login.css">
 <body>
     <div class="container">
@@ -20,14 +23,41 @@
     ?>
 
     
-   <?php
-   /*}
-
-   else{
-    echo "Lase jalga";
-   }*/
-   ?>
+   
    </div>
+   <nav class="navbar navbar-expand-lg">
+          <div class="container-fluid">
+              <a class="navbar-brand" href="KT.php">Peedu Erik Pajo</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse " id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="KT.php">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="KT1.php">About</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="KT2.php">Services</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="KT3.php">Templates</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="KT4.php">Pricing</a>
+                  </li>
+                </ul>
+                    <i class="fa-brands fa-instagram " style="margin-right: 15px;"></i>
+                    <i class="fa-brands fa-twitter" style="margin-right: 15px;"></i>
+                    <i class="fa-brands fa-linkedin" style="margin-right: 15px;"></i>
+                <form class="d-flex" role="search">
+                  <a href="login.php">Logi Sisse</a>
+                </form>
+              </div>
+            </div>
+          </nav>
     <div id="login">
         <h3 class="text-center text-white pt-5">Login form</h3>
         <div class="container">

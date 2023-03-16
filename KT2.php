@@ -1,12 +1,12 @@
 <!doctype html>
-<html lang="en">
+<html lang="zxx">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Peedu Erik Pajo IT-21</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer">
-    <title>Peedu Erik Pajo IT21</title>
+    
     <style>
     
         .jumbo2{
@@ -70,33 +70,33 @@
                     <div class="row">
                         <div class="col-sm-9"><h3>Media heading</h3>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit eius necessitatibus. </p></div>
-                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
+                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid" alt=""></div>
                         <div class="col-sm-9"><h3>Media heading</h3>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit eius necessitatibus. </p></div>
-                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
+                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid" alt=""></div>
                         <div class="col-sm-9"><h3>Media heading</h3>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit eius necessitatibus. </p></div>
-                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
+                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid" alt=""></div>
                         <div class="col-sm-9"><h3>Media heading</h3>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit eius necessitatibus. </p></div>
-                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
+                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid" alt=""></div>
                     </div>
                 </div>
                 <div class="col-sm">
-                <img src="https://picsum.photos/400/700" class="rounded img-fluid">
+                <img src="https://picsum.photos/400/700" class="rounded img-fluid" alt="">
                 </div>
                 <div class="col-sm mt-5 ">
                     <div class="row">
-                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
+                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid" alt=""></div>
                         <div class="col-sm-9"><h3>Media heading</h3>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit eius necessitatibus. </p></div>
-                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
+                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid" alt=""></div>
                         <div class="col-sm-9"><h3>Media heading</h3>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit eius necessitatibus. </p></div>
-                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
+                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid" alt=""></div>
                         <div class="col-sm-9"><h3>Media heading</h3>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit eius necessitatibus. </p></div>
-                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid"></div>
+                        <div class="col-sm-3  "><img src="https://picsum.photos/64/64" class="rounded img-fluid" alt=""></div>
                         <div class="col-sm-9"><h3>Media heading</h3>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit eius necessitatibus. </p></div>
                     </div>
@@ -104,12 +104,12 @@
         </div>
         <div class="row mt-5">
             <div class="col-sm-6">
-                <img src="https://picsum.photos/600/300" class="rounded img-fluid">
+                <img src="https://picsum.photos/600/300" class="rounded img-fluid" alt="">
                 <h2>Awesome Things</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore quam ea aspernatur tempora labore quisquam atque, expedita. Sint quaerat quis vel!</p>
             </div>
             <div class="col-sm-6">
-                <img src="https://picsum.photos/600/300" class="rounded img-fluid">
+                <img src="https://picsum.photos/600/300" class="rounded img-fluid" alt="">
                 <h2>More Awesomeness</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum quasi fuga sunt facere dolores quia eius tempore est totam. Velit deserunt odio ratione laudantium <a href="">maiores suscipit blanditiis</a> quos, eius omnis!</p>
             </div>
@@ -120,7 +120,7 @@
             <i class="fa-solid fa-quote-right text-light fa-2x"></i>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae aperiam ullam ea sed repellendus velit voluptates nesciunt dignissimos quae. Cum, officia! Magnam vel ad quasi nemo voluptates quae, quo molestias.</p>
             <p>-- John Doe Anton OÜ</p>
-            <a class="btn btn-outline-light mt-5 mb-5" type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank">Read More</a>
+            <a class="btn btn-outline-light mt-5 mb-5" href="https://youtu.be/lJkOaBXU8lM" target="_blank">Read More</a>
             </div>  
         </div>
             
@@ -176,7 +176,7 @@
                     <p class="color-light mt-2">Stay up-to-date!</p>
                     <form>
                         <div class="input-group mb-3">
-                            <input type="text" class="form-control form-control-sm" placeholder="Email" aria-label="Email" aria-describedby="basic-addon2">
+                            <input type="text" class="form-control form-control-sm" placeholder="Email" aria-label="Email" >
                             <div class="input-group-append">
                                 <button class="btn btn-primary btn-sm form-control-sm" type="button">OK</button>
                             </div>

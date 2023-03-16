@@ -1,12 +1,13 @@
 <!doctype html>
 <html lang="en">
+
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Peedu Erik Pajo IT-21</title>
+    <title>Peedu Erik Pajo IT21</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer">
-    <title>Peedu Erik Pajo IT21</title>
+    
     <style>
     .jumbo{
             
@@ -30,8 +31,8 @@
             height: 100%;
             width: 100%;
         }
-        .jumbo2{
-            background-image: url('https://www.solidbackgrounds.com/images/2560x1440/2560x1440-davys-grey-solid-color-background.jpg');
+         .jumbo2{
+           background-image: url('https://www.solidbackgrounds.com/images/2560x1440/2560x1440-davys-grey-solid-color-background.jpg');
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
@@ -70,7 +71,7 @@
                     <i class="fa-brands fa-twitter" style="margin-right: 15px;"></i>
                     <i class="fa-brands fa-linkedin" style="margin-right: 15px;"></i>
                 <form class="d-flex" role="search">
-                  <a href="KT2.php">Logi Sisse</a>
+                  <a href="login.php">Logi Sisse</a>
                 </form>
               </div>
             </div>
@@ -81,24 +82,30 @@
             <h1 class="mt-5">Everything you need to craft a beautiful</h1>
             <h1>business websites</h1>
             <button class="btn btn-outline-light mt-5" type="submit">Get started now</button>
-            <a class="btn btn-light text-primary mt-5" type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank">Watch video</a>
+            <a class="btn btn-light text-primary mt-5" href="https://youtu.be/lJkOaBXU8lM" target="_blank">Watch video</a>
             <p class="mt-3">No Creadit Card Required!</p>
             <div class="row">
-                <div class="col-sm"><img src="https://picsum.photos/150/60"></div>
-                <div class="col-sm"><img src="https://picsum.photos/150/60"></div>
-                <div class="col-sm"><img src="https://picsum.photos/150/60"></div>
-                <div class="col-sm"><img src="https://picsum.photos/150/60"></div>
-                <div class="col-sm"><img src="https://picsum.photos/150/60"></div>
-                <div class="col-sm"><img src="https://picsum.photos/150/60"></div>
+                <div class="col-sm"><img src="failid/pilt.jpg" width="150" height="60" alt=""></div>
+                <div class="col-sm"><img src="failid/pilt.jpg" width="150" height="60" alt=""></div>
+                <div class="col-sm"><img src="failid/pilt.jpg" width="150" height="60" alt=""></div>
+                <div class="col-sm"><img src="failid/pilt.jpg" width="150" height="60" alt=""></div>
+                <div class="col-sm"><img src="failid/pilt.jpg" width="150" height="60" alt=""></div>
+                <div class="col-sm"><img src="failid/pilt.jpg" width="150" height="60" alt=""></div>
+                
+                
+            
+              
+              
+                
             </div>
             <div class="container">
             <h1 class="mt-5" >HERE'S WHAT YOU GET</h1>
             <p class="mt-2 text-center" >Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam nesciunt iusto illum ullam cumque, officia iste soluta assumenda qui! Sapiente praesentium officiis aliquam quibusdam dicta nemo ut velit deserunt error!</p>
             </div>
-            <a class="btn btn-light text-primary mt-5" type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank"><i class="fa-solid fa-laptop"></i>  Responsive layouts  </a>
-            <a class="btn btn-light text-primary mt-5" type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank"><i class="fa-regular fa-gem"></i>Modern design</a>
-            <a class="btn btn-light text-primary mt-5" type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank"><i class="fa-brands fa-bootstrap"></i>Bootstrap 4</a>
-            <a class="btn btn-primary text-light mt-5" type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank"><i class="fa-brands fa-html5"></i>Clean HTML5 code</a>
+            <a class="btn btn-light text-primary mt-5"  href="https://youtu.be/lJkOaBXU8lM" target="_blank"><i class="fa-solid fa-laptop"></i>  Responsive layouts  </a>
+            <a class="btn btn-light text-primary mt-5"  href="https://youtu.be/lJkOaBXU8lM" target="_blank"><i class="fa-regular fa-gem"></i>Modern design</a>
+            <a class="btn btn-light text-primary mt-5"  href="https://youtu.be/lJkOaBXU8lM" target="_blank"><i class="fa-brands fa-bootstrap"></i>Bootstrap 4</a>
+            <a class="btn btn-primary text-light mt-5"  href="https://youtu.be/lJkOaBXU8lM" target="_blank"><i class="fa-brands fa-html5"></i>Clean HTML5 code</a>
         </div>
     </div>
 <div class="row p-5 jumbo1">
@@ -110,7 +117,7 @@
               <div class="row">
                 <div class="col-sm-3">
                   
-                  <img src="https://picsum.photos/120/80" class="rounded mx-auto d-block">
+                  <img src="https://picsum.photos/120/80" class="rounded mx-auto d-block" alt="">
                   <p class="text-center text-dark " >-- John Doe</p>
                   <p class="text-center text-dark ">Anton OÜ</p>
                 </div>
@@ -123,10 +130,10 @@
               </div>
             </div>
         </div>
-          <a class="btn btn-primary text-light mt-5 "  type="submit" href="https://youtu.be/lJkOaBXU8lM" target="_blank">See all features</a>
+          <a class="btn btn-primary text-light mt-5 "  href="https://youtu.be/lJkOaBXU8lM" target="_blank">See all features</a>
   </div>
   <div class="col-sm-6 ">
-  <img src="https://picsum.photos/600/600" class="mx-auto d-block">
+  <img src="https://picsum.photos/600/600" class="mx-auto d-block" alt="">
   </div>
 </div>
 <section class="pt-5 pb-5 jumbo2">
@@ -181,7 +188,7 @@
                     <p class="color-light mt-2">Stay up-to-date!</p>
                     <form>
                         <div class="input-group mb-3">
-                            <input type="text" class="form-control form-control-sm" placeholder="Email" aria-label="Email" aria-describedby="basic-addon2">
+                            <input type="text" class="form-control form-control-sm" placeholder="Email" aria-label="Email" >
                             <div class="input-group-append">
                                 <button class="btn btn-primary btn-sm form-control-sm" type="button">OK</button>
                             </div>
